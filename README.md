@@ -3,6 +3,7 @@
 
 * 제 2회 IPS 대회 최우수상 (2022.04 ~ 2022.05.28)
 
+<br><br>
 ## 기술 스택
 - SpringBoot
 - mariaDB/AWS RDS
