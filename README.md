@@ -19,7 +19,7 @@ We:mate는 대면/비대면 수업 전환으로 인한 갑작스러운 자취와
   <tr>
     <td><b>BackEnd</b></td>
         <td>
-          Spring Boot
+          Spring Boot + Java
         </td>
   </tr>
   <tr>
@@ -35,8 +35,33 @@ We:mate는 대면/비대면 수업 전환으로 인한 갑작스러운 자취와
          Amason EC2
        </td>
   </tr>
+  <tr>
+    <td><b>IDE</b></td>
+      <td>
+        STS
+      </td>
+  </tr>
 </tbody>
 </table>
+<br><br>
+
+## 백엔드 개발 참여자 및 역할 
+- 김민지
+  - DB 설계
+  - 네이버 로그인 기능 구현
+  - 게시판(Posts) 관련 API 개발
+  - 규칙 게시판(Rule) 관련 API 개발
+  - 그룹매칭(MateGroup) 관련 API 개발
+  - 프론트 API 연결 및 로직 구현
+  - AWS EC2 서버 배포
+- 유현지
+  - DB 설계
+  - 카카오 로그인 기능 구현
+  - 채팅 기능 구현
+  - 프로필(Profile) 관련 API 개발
+  - 지출 내역(Expense) 관련 API 개발
+  - 성향(Characteristic) 관련 API 개발
+ 
 
 <br><br>
 ## 시연 영상
