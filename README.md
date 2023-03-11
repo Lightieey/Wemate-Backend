@@ -12,6 +12,28 @@ We:mate는 대면/비대면 수업 전환으로 인한 갑작스러운 자취와
 - 원하는 조건을 설정해 룸메이트 검색 및 매칭
 - 규칙, 게시판, 가계부, 일정 페이지를 통한 공동 생활 관리
 
+<br>
+<table>
+  <tr>
+    <td><img width="400" alt="Screenshot 2023-03-11 at 9 29 08 PM" src="https://user-images.githubusercontent.com/79203421/224493904-2d937a1d-05df-4f6a-805e-37e38031fab9.png"></td>
+    <td><img width="400" alt="Screenshot 2023-03-11 at 9 29 18 PM" src="https://user-images.githubusercontent.com/79203421/224493920-30fdf1cd-5286-458a-be6b-c5d00bd8cc6a.png"></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Screenshot 2023-03-11 at 9 29 26 PM" src="https://user-images.githubusercontent.com/79203421/224493918-9b2aea3b-8133-426b-b561-e57916e1698a.png"></td>
+    <td><img width="400" alt="Screenshot 2023-03-11 at 9 29 35 PM" src="https://user-images.githubusercontent.com/79203421/224493916-d48248d6-4d0c-45c4-8417-30e026ed6e7a.png"></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Screenshot 2023-03-11 at 9 29 43 PM" src="https://user-images.githubusercontent.com/79203421/224493913-54421c31-9c05-4aa0-ab1a-0c609167cd15.png"></td>
+    <td><img width="400" alt="Screenshot 2023-03-11 at 9 29 51 PM" src="https://user-images.githubusercontent.com/79203421/224493912-3e39797d-3cda-4465-8615-38e76d4ff7e2.png"></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Screenshot 2023-03-11 at 9 30 00 PM" src="https://user-images.githubusercontent.com/79203421/224493911-ca48b603-64d6-413c-ae32-b51ced8e5218.png"></td>
+    <td><img width="400" alt="Screenshot 2023-03-11 at 9 30 09 PM" src="https://user-images.githubusercontent.com/79203421/224493909-4c89183c-15f5-40f6-8158-78641b05b1ea.png"></td>
+    
+  </tr>
+</table>
+  
+
 <br><br>
 ## 💻 기술 스택
 <table class="tg">
@@ -54,6 +76,7 @@ We:mate는 대면/비대면 수업 전환으로 인한 갑작스러운 자취와
   - 그룹매칭(MateGroup) 관련 API 개발
   - 프론트 API 연결 및 로직 구현
   - AWS EC2 서버 배포
+<br>
 - 유현지
   - DB 설계
   - 카카오 로그인 기능 구현
